@@ -10,6 +10,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sameergoru18/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sameergoru18/leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/sameergoru18/leetcode/tree/master/0198-house-robber) |
 ## Depth-First Search
@@ -25,4 +26,12 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sameergoru18/leetcode/tree/master/0063-unique-paths-ii) |
 | [0733-flood-fill](https://github.com/sameergoru18/leetcode/tree/master/0733-flood-fill) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sameergoru18/leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sameergoru18/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
