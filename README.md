@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sameergoru18/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sameergoru18/leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/sameergoru18/leetcode/tree/master/0198-house-robber) |
 | [0733-flood-fill](https://github.com/sameergoru18/leetcode/tree/master/0733-flood-fill) |
 ## Dynamic Programming
@@ -12,6 +13,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/sameergoru18/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sameergoru18/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sameergoru18/leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/sameergoru18/leetcode/tree/master/0198-house-robber) |
 ## Depth-First Search
 |  |
@@ -25,6 +27,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sameergoru18/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sameergoru18/leetcode/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/sameergoru18/leetcode/tree/master/0733-flood-fill) |
 ## Math
 |  |
