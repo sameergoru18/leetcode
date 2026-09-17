@@ -8,6 +8,7 @@
 | [0064-minimum-path-sum](https://github.com/sameergoru18/leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/sameergoru18/leetcode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/sameergoru18/leetcode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/sameergoru18/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/sameergoru18/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sameergoru18/leetcode/tree/master/0733-flood-fill) |
 ## Dynamic Programming
@@ -17,6 +18,7 @@
 | [0063-unique-paths-ii](https://github.com/sameergoru18/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sameergoru18/leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/sameergoru18/leetcode/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/sameergoru18/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/sameergoru18/leetcode/tree/master/0542-01-matrix) |
 ## Depth-First Search
 |  |
@@ -49,4 +51,12 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/sameergoru18/leetcode/tree/master/0130-surrounded-regions) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/sameergoru18/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/sameergoru18/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
