@@ -69,4 +69,16 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sameergoru18/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/sameergoru18/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+## String
+|  |
+| ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/sameergoru18/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/sameergoru18/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 <!---LeetCode Topics End-->
