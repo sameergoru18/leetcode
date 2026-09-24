@@ -27,6 +27,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/sameergoru18/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sameergoru18/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/sameergoru18/leetcode/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/sameergoru18/leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/sameergoru18/leetcode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
@@ -34,6 +35,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/sameergoru18/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sameergoru18/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/sameergoru18/leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/sameergoru18/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sameergoru18/leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/sameergoru18/leetcode/tree/master/1020-number-of-enclaves) |
@@ -81,4 +83,16 @@
 |  |
 | ------- |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sameergoru18/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sameergoru18/leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sameergoru18/leetcode/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sameergoru18/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
