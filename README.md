@@ -84,10 +84,12 @@
 ## String
 |  |
 | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sameergoru18/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sameergoru18/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
 | ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sameergoru18/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sameergoru18/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Graph Theory
 |  |
@@ -101,4 +103,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sameergoru18/leetcode/tree/master/0207-course-schedule) |
+## Stack
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sameergoru18/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sameergoru18/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
