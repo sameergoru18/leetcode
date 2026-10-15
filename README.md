@@ -14,6 +14,7 @@
 | [0542-01-matrix](https://github.com/sameergoru18/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sameergoru18/leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/sameergoru18/leetcode/tree/master/1020-number-of-enclaves) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sameergoru18/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sameergoru18/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1463-cherry-pickup-ii](https://github.com/sameergoru18/leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Dynamic Programming
@@ -26,6 +27,7 @@
 | [0198-house-robber](https://github.com/sameergoru18/leetcode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/sameergoru18/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/sameergoru18/leetcode/tree/master/0542-01-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sameergoru18/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/sameergoru18/leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Depth-First Search
 |  |
@@ -54,6 +56,7 @@
 | [0542-01-matrix](https://github.com/sameergoru18/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sameergoru18/leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/sameergoru18/leetcode/tree/master/1020-number-of-enclaves) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sameergoru18/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/sameergoru18/leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Math
 |  |
