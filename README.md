@@ -14,6 +14,7 @@
 | [0200-number-of-islands](https://github.com/sameergoru18/leetcode/tree/master/0200-number-of-islands) |
 | [0416-partition-equal-subset-sum](https://github.com/sameergoru18/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/sameergoru18/leetcode/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sameergoru18/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/sameergoru18/leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/sameergoru18/leetcode/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sameergoru18/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -31,6 +32,7 @@
 | [0198-house-robber](https://github.com/sameergoru18/leetcode/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/sameergoru18/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/sameergoru18/leetcode/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sameergoru18/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sameergoru18/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/sameergoru18/leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Depth-First Search
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sameergoru18/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sameergoru18/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sameergoru18/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/sameergoru18/leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Graph Theory
