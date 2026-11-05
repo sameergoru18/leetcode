@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/sameergoru18/leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/sameergoru18/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sameergoru18/leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameergoru18/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,4 +123,12 @@
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sameergoru18/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sameergoru18/leetcode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sameergoru18/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
